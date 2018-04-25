@@ -1,0 +1,24 @@
+{
+  "name": "buddybeam",
+  "version": "1.0.0",
+  "description": "A matching app using Node and Express servers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolaliz/BuddyBeam.git"
+  },
+  "author": "E.Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lolaliz/BuddyBeam/issues"
+  },
+  "homepage": "https://github.com/lolaliz/BuddyBeam#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
