@@ -1,0 +1,15 @@
+.jumbotron {
+    background: rgb(5, 26, 54);
+    color: lightgray;
+}
+
+
+body {
+	background: lightskyblue;
+}
+
+
+#matchModal img {
+	overflow: hidden;
+	width: 200px;
+} 
